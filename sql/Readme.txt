@@ -1,0 +1,1 @@
+Create database name as lifeline and import the the lifeline.sql into the database
